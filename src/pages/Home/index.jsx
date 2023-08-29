@@ -7,8 +7,8 @@ const Home = () => {
   return (
     <>
       <NavBar />
+      <HeroSection />
       <Container>
-        <HeroSection />
         <AboutUs />
         <MentorCarousel />
         <TeamCard />
